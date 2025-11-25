@@ -14,7 +14,16 @@ PrasanthRangan's dotfiles — heavily customized, optimized, and themed.
 - Tweaked keybindings for fast workflow
 
 ## -> Screenshots
-(Add screenshots in /assets)
+
+<p align="center">
+  <img src="assets/screenshot-1.png" width="45%" />
+  <img src="assets/screenshot-2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshot-3.png" width="45%" />
+</p>
+
 
 ## -> Requires
 - Hyprland
