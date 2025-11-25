@@ -3,7 +3,7 @@
 A modern, fast and aesthetic Hyprland rice based on 
 PrasanthRangan's dotfiles — heavily customized, optimized, and themed.
 
-## ✨ Features
+## -> Features
 - Clean and modern Waybar design
 - Beautiful animations + blur
 - Spotify TUI integration (SPT)
@@ -13,10 +13,10 @@ PrasanthRangan's dotfiles — heavily customized, optimized, and themed.
 - Dev-ready (Node, React, Tailwind friendly)
 - Tweaked keybindings for fast workflow
 
-## 📸 Screenshots
+## -> Screenshots
 (Add screenshots in /assets)
 
-## 📦 Requires
+## -> Requires
 - Hyprland
 - Waybar
 - Rofi (Wayland)
@@ -27,7 +27,7 @@ PrasanthRangan's dotfiles — heavily customized, optimized, and themed.
 - Playerctl
 - Brightnessctl
 
-## 🛠 Install
+## -> Install
 ```bash
 git clone https://github.com/miles-spidee/HyprFLX
 cd HyprFLX
